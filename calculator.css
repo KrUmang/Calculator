@@ -1,0 +1,30 @@
+#calulator {
+  border: 5px solid rgb(10, 1, 1);
+  border-radius: 10px;
+  width: 200px;
+  background: darkblue;
+}
+
+#display {
+  margin: 10px;
+  width: 85%;
+  height: 50px;
+  border-radius: 10px;
+  text-align: right;
+}
+
+.button-container {
+  display: flex;
+  justify-content: center;
+}
+
+.newButton {
+  width: 60px;
+  height: 40px;
+  margin: 5px;
+  border-radius: 50px;
+  color: aliceblue;
+  background-color: brown;
+}
+
+
